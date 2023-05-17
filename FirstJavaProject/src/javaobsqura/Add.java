@@ -17,7 +17,7 @@ public class Add {
 		System.out.println("enter two numbers");
 		n1=sc.nextInt();
 		n2=sc.nextInt();
-		sum=n1+n2;
+		sum=n1+n2;//sum
 		return sum;
 	}
 
